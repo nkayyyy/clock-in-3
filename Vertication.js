@@ -1,0 +1,16 @@
+import React from 'react';
+import './Vertication.css';
+import hLogo from "../Assets/image 13.png";
+import profile from "../Assets/Vector (25).png";
+import password from "../Assets/Vector (25).png";
+
+
+const SignIn = () => {
+
+
+  return (
+   <div class="v578_132"><div class="v578_133"></div><div class="v578_134"></div><div class="v578_135"></div><div class="v578_136"><span class="v578_137">Comments</span><div class="v578_138"><div class="v578_139"></div></div></div><div class="v578_140"><span class="v578_141">Class schedules</span><div class="v578_142"><div class="v578_143"></div></div></div><div class="v578_144"><span class="v578_145">Courses</span><div class="v578_146"><div class="v578_147"></div><div class="v578_148"></div><div class="v578_149"></div></div></div><div class="v578_150"><span class="v578_151">Set up</span><div class="v578_152"><div class="v578_153"></div></div></div><div class="v578_154"><span class="v578_155">Class reports</span><div class="v578_156"><div class="v578_157"></div></div></div><div class="v578_158"><div class="v578_159"><div class="v578_160"></div></div><span class="v578_161">Menu</span></div><div class="v578_162"><div class="v578_163"><div class="v578_164"></div></div><span class="v578_165">Students</span></div><div class="v578_166"><div class="v578_167"><div class="v578_168"></div><div class="v578_169"></div><div class="v578_170"></div></div><span class="v578_171">Ongoing classes</span></div><div class="v578_172"><span class="v578_173">Teachers</span><div class="v578_174"><div class="v578_175"></div></div></div><div class="v578_176"></div><div class="v578_177"><div class="v578_178"></div><div class="v578_179"><div class="v578_180"><div class="v578_181"></div></div><span class="v578_182">Filter</span></div><div class="v578_183"><div class="v578_184"></div></div></div><div class="v578_185"><div class="v578_186"></div><div class="v578_187"><div class="v578_188"></div></div><span class="v578_189">Search student</span></div><div class="v578_190"><div class="v578_191"></div></div><div class="v578_192"><span class="v578_193">Registration</span><div class="v578_194"><div class="v578_195"></div></div></div><div class="v578_196"></div><span class="v578_197">Courses</span><div class="v578_198"><div class="v578_199"></div><span class="v578_200">Digital Marketting</span></div><div class="v578_201"><div class="v578_202"></div><span class="v578_203">Digital Marketting</span></div><div class="v578_204"><div class="v578_205"></div><span class="v578_206">Digital Marketting</span></div><div class="v578_207"><div class="v578_208"></div><span class="v578_209">Digital Marketting</span></div><div class="v578_210"><div class="v578_211"></div><span class="v578_212">Digital Marketting</span></div><div class="v578_213"><div class="v578_214"></div><span class="v578_215">Digital Marketting</span></div><div class="v578_216"><div class="v578_217"></div><span class="v578_218">Digital Marketting</span></div><div class="v578_219"><div class="v578_220"></div><span class="v578_221">Digital Marketting</span></div><div class="v578_222"><div class="v578_223"></div><span class="v578_224">Digital Marketting</span></div><div class="v578_225"><span class="v578_226">Add courses</span></div></div>
+  )
+}
+
+export default SignIn
